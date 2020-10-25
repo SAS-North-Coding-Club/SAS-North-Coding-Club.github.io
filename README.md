@@ -1,6 +1,6 @@
 # SAS North Coding Club
 
-To see our website, enter ```https://SAS-North-Coding-Club.github.io``` in your browser.
+***To see our website, enter*** ```https://SAS-North-Coding-Club.github.io``` ***in your browser.***
 
 <br>
 
