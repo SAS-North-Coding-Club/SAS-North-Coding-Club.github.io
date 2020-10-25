@@ -2,6 +2,7 @@
 
 ***SAS North Math and Coding Club website.***
 
+<br>
 
 This is the code for the SAS North Math and Coding Club website,
 created by the coding members.
@@ -11,7 +12,10 @@ This is where we'll commit changes made by different members so we can
 combine our work. By now, you should have downloaded ``Atom``, which is the
 editor we'll be using to edit our website's code.
 
+<br>
+
 _Here's some terminology you might be unfamiliar with:_
+<br>
 
 
 ***Source code*** is a list of commands, or code, compiled to create an
