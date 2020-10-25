@@ -35,9 +35,9 @@ view and replicate for their own learning purposes.
 <br>
 
 ***Github*** is a corporation that uses Git and hosts source code. We'll
-be using Github to keep track of all the versions of our website's
+be using ```Github``` to keep track of all the versions of our website's
 source code as we work on it. There are also many useful open source projects
-on Github that we'll be using to improve our own code.
+on ```Github``` that we'll be using to improve our own code.
 
 <br>
 
