@@ -15,8 +15,9 @@ editor we'll be using to edit our website's code.
 <br>
 
 _Here's some terminology you might be unfamiliar with:_
-<br>
 
+<br>
+<br>
 
 ***Source code*** is a list of commands, or code, compiled to create an
 executable program.
